@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Singapore company emails by industry (ACRA)</title>
+<meta name="description" content="Pick an industry code (SSIC); get Singapore companies from the official ACRA register with their verified website, email and phone. $5 per 1,000. Real example.">
+<link rel="canonical" href="https://saquibjawedbit.github.io/founder-email-finder/singapore-company-emails-by-industry-acra.html">
+<meta property="og:title" content="Singapore company emails by industry (ACRA)">
+<meta property="og:description" content="Pick an industry code (SSIC); get Singapore companies from the official ACRA register with their verified website, email and phone. $5 per 1,000. Real example.">
+<meta property="og:url" content="https://saquibjawedbit.github.io/founder-email-finder/singapore-company-emails-by-industry-acra.html">
+<meta property="og:type" content="website">
+<meta name="color-scheme" content="light dark">
+<link rel="stylesheet" href="style.css">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What is ACRA?", "acceptedAnswer": {"@type": "Answer", "text": "The Accounting and Corporate Regulatory Authority, Singapore's company register. Its company list is published as open data on data.gov.sg."}}, {"@type": "Question", "name": "Does ACRA publish company emails?", "acceptedAnswer": {"@type": "Answer", "text": "No. The register has the name, UEN, industry code, address and status. The emails and phones come from each company's own website."}}, {"@type": "Question", "name": "What does the Singapore search cost?", "acceptedAnswer": {"@type": "Answer", "text": "$5 per 1,000 companies with contacts; companies without contacts are free. The optional web search costs about $0.0045 per company searched."}}]}</script>
+</head>
+<body>
+<header class="site"><div class="wrap"><a class="brand" href="./">Founder Email Finder</a><nav><a href="./#questions">Guides</a> · <a href="./#pricing">Pricing</a></nav></div></header>
+<main><div class="wrap">
+<h1>How to find emails of Singapore companies by industry (ACRA)</h1>
+<p class="answer">Start from ACRA, Singapore's official company register (published on data.gov.sg), filter by industry code (SSIC), find each company's own website, and read it for contacts. My tool does all of that in one run: pick an industry, get one row per company with its UEN, registration date, verified website, email and phone. It costs $5 per 1,000 companies, and companies with no contacts are free.</p>
+<h2>How to do it</h2>
+<ol class=steps>
+<li>Open the tool and leave Websites empty.</li>
+<li>Under <em>Find companies by industry</em>, choose Singapore and add industry codes, for example 69201 accounting, 70205 marketing and PR consultancy, 62011 software development.</li>
+<li>Optional: a postal code start (079), minimum years operating, maximum companies. Press Start.</li>
+</ol>
+<pre><code>{ "country": "SG", "industryCodes": ["70205"], "maxCompanies": 100 }</code></pre>
+<p>A website is accepted only when it shows the company's UEN or registered name, or its brand plus a sign it is in Singapore. Codes work better than keywords: most companies leave their own activity description empty in the register. An optional web search finds sites traded under another brand; it runs Apify's Google search tool at about $0.0045 per company searched, billed on top.</p>
+<p class="cta-wrap"><a class="cta" href="https://apify.com/intropi/company-contacts-tech-lookup" rel="noopener">Find Singapore company emails free</a></p>
+<h2>A real example</h2>
+<p>I searched SSIC 70205 (marketing and PR consultancy), live companies at least 2 years old, capped at 6 companies, with the web search turned off. The register gave 6 companies; the tool verified a website for 3 of them and found contacts on all 3. Only those 3 were charged.</p>
+<div class="table-wrap"><table><thead><tr><th scope=col>Registered name</th><th scope=col>Registered</th><th scope=col>Website</th><th scope=col>Website match</th><th scope=col>Best email</th><th scope=col>Phone</th></tr></thead><tbody>
+<tr><td data-label="Registered name">YIHANXIWANG PTE. LTD.</td><td data-label="Registered">2022-10-11</td><td data-label="Website"><span class=muted>no verified site (row free)</span></td><td data-label="Website match"><span class=muted>none</span></td><td data-label="Best email"><span class=muted>none</span></td><td data-label="Phone"><span class=muted>none</span></td></tr>
+<tr><td data-label="Registered name">INTEGENIC PTE. LTD.</td><td data-label="Registered">2022-10-05</td><td data-label="Website"><span class=muted>no verified site (row free)</span></td><td data-label="Website match"><span class=muted>none</span></td><td data-label="Best email"><span class=muted>none</span></td><td data-label="Phone"><span class=muted>none</span></td></tr>
+<tr><td data-label="Registered name">GGQUEST LABS PTE. LTD.</td><td data-label="Registered">2023-03-31</td><td data-label="Website"><span class=muted>no verified site (row free)</span></td><td data-label="Website match"><span class=muted>none</span></td><td data-label="Best email"><span class=muted>none</span></td><td data-label="Phone"><span class=muted>none</span></td></tr>
+<tr><td data-label="Registered name">ZOCO COLLECTIVE</td><td data-label="Registered">2024-03-12</td><td data-label="Website">zococollective.com</td><td data-label="Website match">medium</td><td data-label="Best email"><code>z***@gmail.com</code></td><td data-label="Phone"><span class=muted>none</span></td></tr>
+<tr><td data-label="Registered name">PREMIUM LEADS PTE. LTD.</td><td data-label="Registered">2022-04-25</td><td data-label="Website">premiumleads.co</td><td data-label="Website match">high</td><td data-label="Best email"><code>contact@premiumleads.co</code></td><td data-label="Phone"><span class=muted>none</span></td></tr>
+<tr><td data-label="Registered name">XPOINTO MEDIA PRIVATE LIMITED</td><td data-label="Registered">2008-01-18</td><td data-label="Website">xpointomedia.com</td><td data-label="Website match">medium</td><td data-label="Best email"><span class=muted>none</span></td><td data-label="Phone">+6562220060</td></tr>
+</tbody></table></div>
+<p class="small">Run on 2026-11-14. "high" means the site shows the UEN or registered name; "medium" means the brand plus a sign of Singapore. In larger Singapore tests the tool found the right site for 76% of SMEs from the name alone (84% with the web search).</p>
+
+<h2>Questions</h2>
+<details><summary>What is ACRA?</summary><p>The Accounting and Corporate Regulatory Authority, Singapore&#x27;s company register. Its company list is published as open data on data.gov.sg.</p></details>
+<details><summary>Does ACRA publish company emails?</summary><p>No. The register has the name, UEN, industry code, address and status. The emails and phones come from each company&#x27;s own website.</p></details>
+<details><summary>What does the Singapore search cost?</summary><p>$5 per 1,000 companies with contacts; companies without contacts are free. The optional web search costs about $0.0045 per company searched.</p></details>
+
+<h2>Other questions</h2><ul class=qs><li><a href="find-founder-email-from-website.html">How to find the founder&#x27;s email of a company from its website</a></li><li><a href="hunter-io-alternative-small-business.html">Hunter.io alternative for small businesses</a></li><li><a href="google-maps-scraper-owner-emails.html">How to get owner emails from a Google Maps scraper list</a></li><li><a href="find-dentist-practice-owner-email.html">How to find a dentist practice owner&#x27;s email</a></li><li><a href="find-local-business-owner-email.html">How to find the owner email of a local business (plumbers, contractors)</a></li><li><a href="find-startup-founder-email-for-job.html">How to find a startup founder&#x27;s email to ask for a job</a></li><li><a href="guess-company-email-format.html">How to guess a company&#x27;s email format (first@, first.last@) and how accurate it is</a></li><li><a href="find-marketing-agency-owner-email.html">How to find a marketing agency owner&#x27;s email</a></li><li><a href="free-bulk-founder-email-finder.html">Free bulk founder email finder: how many lookups $5 of free Apify credit covers</a></li></ul><p><a href="./">Home</a></p>
+</div></main>
+<footer class="site"><div class="wrap">
+<p>Results are public business contact details taken from each company's own website, or from the official company register for the Singapore search. Guessed emails are always labelled as guessed and are never checked by sending mail. If your details appear in a result and you want them removed, open a <a href="https://github.com/saquibjawedbit/founder-email-finder/issues/new?title=Removal%20request">removal request</a> and I will remove them.</p>
+<p>The tool runs on <a href="https://apify.com/intropi/company-contacts-tech-lookup" rel="noopener">Apify</a>. Hunter.io is a trademark of its owner; this site is not connected to it.</p>
+</div></footer>
+</body>
+</html>
