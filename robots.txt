@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://saquibjawedbit.github.io/founder-email-finder/sitemap.xml
+Sitemap: https://founders.intropi.in/sitemap.xml

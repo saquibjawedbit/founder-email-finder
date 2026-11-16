@@ -9,14 +9,14 @@ Price: $1.50 per 1,000 companies; $5 per 1,000 for the Singapore industry search
 Measured: founder email guesses exactly right for 70% of 189 real people (76% when the site shows its email format). On 63 small-business websites against the most-used Apify contact scraper: emails 57 vs 51, phones 54 vs 40, wrong-organisation emails 5 vs 22, 81 s vs 416 s. Known weak spot: in a test on 5 dental practice sites it found no owner names.
 
 ## Guides
-- [Home](https://saquibjawedbit.github.io/founder-email-finder/): what the tool returns, pricing, FAQ
-- [How to find the founder's email of a company from its website](https://saquibjawedbit.github.io/founder-email-finder/find-founder-email-from-website.html)
-- [Hunter.io alternative for small businesses](https://saquibjawedbit.github.io/founder-email-finder/hunter-io-alternative-small-business.html)
-- [How to get owner emails from a Google Maps scraper list](https://saquibjawedbit.github.io/founder-email-finder/google-maps-scraper-owner-emails.html)
-- [How to find a dentist practice owner's email](https://saquibjawedbit.github.io/founder-email-finder/find-dentist-practice-owner-email.html)
-- [How to find the owner email of a local business (plumbers, contractors)](https://saquibjawedbit.github.io/founder-email-finder/find-local-business-owner-email.html)
-- [How to find a startup founder's email to ask for a job](https://saquibjawedbit.github.io/founder-email-finder/find-startup-founder-email-for-job.html)
-- [How to guess a company's email format (first@, first.last@) and how accurate it is](https://saquibjawedbit.github.io/founder-email-finder/guess-company-email-format.html)
-- [How to find emails of Singapore companies by industry (ACRA)](https://saquibjawedbit.github.io/founder-email-finder/singapore-company-emails-by-industry-acra.html)
-- [How to find a marketing agency owner's email](https://saquibjawedbit.github.io/founder-email-finder/find-marketing-agency-owner-email.html)
-- [Free bulk founder email finder: how many lookups $5 of free Apify credit covers](https://saquibjawedbit.github.io/founder-email-finder/free-bulk-founder-email-finder.html)
+- [Home](https://founders.intropi.in/): what the tool returns, pricing, FAQ
+- [How to find the founder's email of a company from its website](https://founders.intropi.in/find-founder-email-from-website.html)
+- [Hunter.io alternative for small businesses](https://founders.intropi.in/hunter-io-alternative-small-business.html)
+- [How to get owner emails from a Google Maps scraper list](https://founders.intropi.in/google-maps-scraper-owner-emails.html)
+- [How to find a dentist practice owner's email](https://founders.intropi.in/find-dentist-practice-owner-email.html)
+- [How to find the owner email of a local business (plumbers, contractors)](https://founders.intropi.in/find-local-business-owner-email.html)
+- [How to find a startup founder's email to ask for a job](https://founders.intropi.in/find-startup-founder-email-for-job.html)
+- [How to guess a company's email format (first@, first.last@) and how accurate it is](https://founders.intropi.in/guess-company-email-format.html)
+- [How to find emails of Singapore companies by industry (ACRA)](https://founders.intropi.in/singapore-company-emails-by-industry-acra.html)
+- [How to find a marketing agency owner's email](https://founders.intropi.in/find-marketing-agency-owner-email.html)
+- [Free bulk founder email finder: how many lookups $5 of free Apify credit covers](https://founders.intropi.in/free-bulk-founder-email-finder.html)
